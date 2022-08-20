@@ -1,6 +1,6 @@
 ### Salut 👋
 
-![Cover](https://github.com/alexiglnt/alexiglnt/blob/master/img/gif.gif)
+![Cover](https://github.com/alexiglnt/alexiglnt/img/gif.gif)
 
 Je suis étudiant en deuxième année du BUT Informatique Graphique à l'IUT du Puy-en-Velay
 
