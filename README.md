@@ -1,5 +1,31 @@
 ### Hi there 👋
 
+Je suis étudiant en deuxième année du BUT Informatique Graphique à l'IUT du Puy-en-Velay
+
+Développement logiciels / jeux :
+  - C
+  - C++
+  - C#
+  - Python
+  - Unity
+  
+  Développement web : 
+    - HTML
+    - CSS
+    - JavaScript
+    - PHP
+    - SQL
+    
+    Design / 3D :
+      - Photoshop
+      - Affinity Designer
+      - 3Ds Max
+      - Substance Painter
+    
+Mail : alexigallonet@gmail.com
+Linkedin : https://www.linkedin.com/in/alexi-gallonet-147928243
+
+
 <!--
 **alexiglnt/alexiglnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
