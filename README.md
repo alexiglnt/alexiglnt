@@ -2,6 +2,8 @@
 
 Je suis étudiant en deuxième année du BUT Informatique Graphique à l'IUT du Puy-en-Velay
 
+React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Apollo Heroku redux ReactiveX GraphQL Sass Styled Components git NestJs angular npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs
+
       Développement logiciels / jeux 🎮 :
          - C
          - C++
