@@ -26,7 +26,7 @@ Je suis étudiant en deuxième année du BUT Informatique Graphique à l'IUT du 
 
 🌐 Site : https://alexiglnt.github.io/Portfolio/
 
-⏸️ Linkedin : https://www.linkedin.com/in/alexi-gallonet-147928243
+⏸️ Linkedin : https://www.linkedin.com/in/alexi-gallonet
 
 
 <!--
