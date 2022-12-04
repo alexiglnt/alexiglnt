@@ -15,6 +15,8 @@ Je suis étudiant en deuxième année du BUT Informatique Graphique à l'IUT du 
          - JavaScript
          - PHP
          - SQL
+         - Vue.js
+         - Symfony
     
       Design / 3D 🖌️:
          - Photoshop
