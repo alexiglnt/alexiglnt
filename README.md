@@ -4,13 +4,6 @@ Je suis étudiant en deuxième année du BUT Informatique Graphique à l'IUT du 
 
 ![alt text](https://github.com/alexiglnt/alexiglnt/blob/main/img/banniere.png?raw=true)
 
-      Développement logiciels / jeux 🎮 :
-         - C
-         - C++
-         - C#
-         - Python
-         - Unity
-  
       Développement web 💻: 
          - HTML
          - CSS
@@ -19,7 +12,14 @@ Je suis étudiant en deuxième année du BUT Informatique Graphique à l'IUT du 
          - SQL
          - Vue.js
          - Symfony
-    
+
+      Développement logiciels / jeux 🎮 :
+         - C
+         - C++
+         - C#
+         - Python
+         - Unity
+ 
       Design / 3D 🖌️:
          - Photoshop
          - Affinity Designer
