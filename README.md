@@ -4,15 +4,18 @@ Je suis étudiant en deuxième année du BUT Informatique Graphique à l'IUT du 
 
 ![alt text](https://github.com/alexiglnt/alexiglnt/blob/main/img/banniere.png?raw=true)
 
-   ### Développement web 💻: 
-      
-         - HTML
-         - CSS
+   ## Développement web 💻: 
+   
+   
+   ### Front-end   
+         - HTML / CSS
          - JavaScript
          - PHP
          - SQL
          - Vue.js
          - Symfony
+         - React 
+         - Next.js
 
    ### Développement logiciels / jeux 🎮 :
       
