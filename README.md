@@ -10,14 +10,16 @@ Je suis étudiant en deuxième année du BUT Informatique Graphique à l'IUT du 
    ### Front-end   
          - HTML / CSS
          - JavaScript
-         - PHP
-         - SQL
          - Vue.js
-         - Symfony
          - React 
          - Next.js
+         
+   ### Back-end   
+         - PHP
+         - SQL
+         - Symfony
 
-   ### Développement logiciels / jeux 🎮 :
+   ## Développement logiciels / jeux 🎮 :
       
          - C
          - C++
@@ -25,7 +27,7 @@ Je suis étudiant en deuxième année du BUT Informatique Graphique à l'IUT du 
          - Python
          - Unity
 
-   ### Design / 3D 🖌️:
+   ## Design / 3D 🖌️:
       
          - Photoshop
          - Affinity Designer
