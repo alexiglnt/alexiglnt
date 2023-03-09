@@ -10,14 +10,18 @@ Je suis étudiant en deuxième année du BUT Informatique Graphique à l'IUT du 
    ### Front-end   
          - HTML / CSS
          - JavaScript
+         - TypeScript
          - Vue.js
          - React 
          - Next.js
          
    ### Back-end   
          - PHP
-         - SQL
+         - MySQL
          - Symfony
+         - Redis
+         - MongoDB
+         - XAMPP
 
    ## Développement logiciels / jeux 🎮 :
       
