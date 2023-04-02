@@ -40,7 +40,7 @@ Je suis étudiant en deuxième année du BUT Informatique Graphique à l'IUT du 
     
 ✉️ Mail : alexigallonet@gmail.com
 
-🌐 Site : https://alexiglnt.github.io/Portfolio/
+🌐 Site : https://alexiglnt.github.io/Portfolio/ OU https://alexigallonet.vercel.app/
 
 ⏸️ Linkedin : https://www.linkedin.com/in/alexi-gallonet
 
