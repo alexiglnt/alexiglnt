@@ -1,6 +1,6 @@
 ### Salut 👋
 
-Je suis étudiant en deuxième année du BUT Informatique Graphique à l'IUT du Puy-en-Velay
+Je suis étudiant en troisième année du BUT Informatique Graphique à l'IUT du Puy-en-Velay
 
 ![alt text](https://github.com/alexiglnt/alexiglnt/blob/main/img/banniere.png?raw=true)
 
