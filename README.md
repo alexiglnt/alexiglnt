@@ -1,6 +1,6 @@
 ### Salut 👋
 
-Je suis étudiant en troisième année du BUT Informatique Graphique à l'IUT du Puy-en-Velay
+Je suis apprenti ingénieur informatique à ISIMA, Clermont-Ferrand
 
 ![alt text](https://github.com/alexiglnt/alexiglnt/blob/main/img/banniere.png?raw=true)
 
@@ -16,12 +16,11 @@ Je suis étudiant en troisième année du BUT Informatique Graphique à l'IUT du
          - Next.js
          
    ### Back-end   
-         - PHP
+         - PHP / Symfony
+         - C# / .NET
          - MySQL
-         - Symfony
-         - Redis
          - MongoDB
-         - XAMPP
+         - Redis
 
    ## Développement logiciels / jeux 🎮 :
       
@@ -31,16 +30,10 @@ Je suis étudiant en troisième année du BUT Informatique Graphique à l'IUT du
          - Python
          - Unity
 
-   ## Design / 3D 🖌️:
-      
-         - Photoshop
-         - Affinity Designer
-         - 3Ds Max
-         - Substance Painter
     
-✉️ Mail : alexigallonet@gmail.com
+✉️ Mail : contact@alexigallonet.com
 
-🌐 Site : https://alexigallonet.vercel.app/
+🌐 Site : https://alexigallonet.com
 
 ⏸️ Linkedin : https://www.linkedin.com/in/alexi-gallonet
 
