@@ -57,14 +57,6 @@ Online comics library with credit-based reading system.
 **Tech:** Vue.js • Symfony • HTML/CSS  
 👉 https://github.com/alexiglnt/comics-more
 
-*More projects pinned below 👇*
-
----
-
-## 📌 Pinned Repositories
-
-<!-- Here, GitHub will show your pinned repos -->
-
 ---
 
 ## 📫 Connect with Me
@@ -76,10 +68,5 @@ Online comics library with credit-based reading system.
 </p>
 
 ---
-
-## 📌 About Me
-
-I’m passionate about **industrial software**, **large-scale systems**, and
-**bridging low-level engineering (C++ / Qt) with modern web technologies**.
 
 Always learning. Always building. 🚀
