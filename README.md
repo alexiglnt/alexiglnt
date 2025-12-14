@@ -27,23 +27,18 @@ I build **software systems** and **web applications** with a focus on **clean co
 
 ---
 
-## 🧠 Tech Stack
+## 💻 Web Development
+[![Web Skills](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,php,symfony)](https://skillicons.dev)
 
-<p align="center">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
-</p>
+## 🧠 Software Engineering
+[![Software Skills](https://skillicons.dev/icons?i=cpp,qt,python,cs,dotnet)](https://skillicons.dev)
+
+## 🗄 Databases & Tools
+[![Tools](https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,git,linux)](https://skillicons.dev)
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Projects
 
 Here are some repositories I’m proud of 👇
 
@@ -62,10 +57,18 @@ Online comics library with credit-based reading system.
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:contact@alexigallonet.com"><img src="https://img.shields.io/badge/Email-contact@alexigallonet.com-blue?style=flat-square" /></a>
-  <a href="https://alexigallonet.com"><img src="https://img.shields.io/badge/Website-alexigallonet.com-blue?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/alexi-gallonet"><img src="https://img.shields.io/badge/LinkedIn-Alexi_Gallonet-blue?style=flat-square" /></a>
+  <a href="mailto:contact@alexigallonet.com">
+    <img src="https://img.shields.io/badge/Email-contact@alexigallonet.com-1F4ED8?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://alexigallonet.com">
+    <img src="https://img.shields.io/badge/Website-alexigallonet.com-1F4ED8?style=flat-square&logo=internet-explorer&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexi-gallonet">
+    <img src="https://img.shields.io/badge/LinkedIn-Alexi_Gallonet-1F4ED8?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
+
 
 ---
 
